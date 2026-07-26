@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Let's build something worth shipping</title>
+  <desc id="desc">A liquid glass contact panel linking to Baptiste Avert by email.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFF"/><stop offset="1" stop-color="#EEF3FC"/></linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FF9BCB"/><stop offset="0.5" stop-color="#AA9DFF"/><stop offset="1" stop-color="#79C9FF"/></linearGradient>
+    <radialGradient id="shine" cx="30%" cy="18%" r="68%"><stop stop-color="#FFFFFF"/><stop offset="0.18" stop-color="#FFFFFF" stop-opacity="0.35"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="190%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#70758D" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect width="1200" height="250" rx="34" fill="url(#bg)"/>
+  <circle cx="1065" cy="126" r="132" fill="url(#orb)" opacity="0.92"/>
+  <circle cx="1065" cy="126" r="132" fill="url(#shine)"/>
+  <circle cx="905" cy="48" r="38" fill="#FFB2D0"/><circle cx="905" cy="48" r="38" fill="url(#shine)"/>
+  <circle cx="1155" cy="220" r="66" fill="#80CFFF"/><circle cx="1155" cy="220" r="66" fill="url(#shine)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#171720">
+    <text x="58" y="50" font-family="Courier New, monospace" font-size="10" letter-spacing="1.8" fill="#858794">THE NEXT THING</text>
+    <text x="58" y="107" font-size="38" font-weight="680" letter-spacing="-1.4">Let's build something</text>
+    <text x="58" y="149" font-family="Georgia, Times New Roman, serif" font-size="40" font-style="italic">worth shipping.</text>
+  </g>
+
+  <g transform="translate(58 177)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="444" height="50" rx="25" fill="#171720"/>
+    <text x="25" y="31" font-size="14" fill="#FFFFFF">baptiste.avert@gmail.com</text>
+    <circle cx="416" cy="25" r="18" fill="#F4F6FC"/>
+    <path d="M408 25H423M417 19L423 25L417 31" fill="none" stroke="#171720" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="525" y="208" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#818391">TEAM · FREELANCE · PARIS</text>
+</svg>

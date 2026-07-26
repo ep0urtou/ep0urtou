@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">CreaBoost — advertising analytics SaaS</title><desc id="desc">Mobile product card with a reporting dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF9FC"/><stop offset="1" stop-color="#FDECF5"/></linearGradient>
+    <linearGradient id="chart" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF99C4"/><stop offset="0.55" stop-color="#AF94FF"/><stop offset="1" stop-color="#79C9FF"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#A47895" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect width="720" height="560" rx="34" fill="url(#bg)"/>
+  <text x="34" y="47" font-family="Courier New, monospace" font-size="11" letter-spacing="1.6" fill="#847583">CREABOOST · 2025—2026</text>
+  <text x="34" y="101" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.5" fill="#171720">Scattered advertising data,</text>
+  <text x="34" y="143" font-family="Georgia, Times New Roman, serif" font-size="40" font-style="italic" fill="#171720">made readable.</text>
+  <text x="34" y="181" font-family="Courier New, monospace" font-size="10" font-weight="700" letter-spacing="1.1" fill="#5F5260">PRODUCT ENGINEER · INTERNSHIP → FREELANCE</text>
+  <g transform="translate(34 211)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="652" height="307" rx="30" fill="#FFFFFF" fill-opacity="0.68" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="26" cy="25" r="4" fill="#FF9BBC"/><circle cx="40" cy="25" r="4" fill="#FFD070"/><circle cx="54" cy="25" r="4" fill="#8BE0C1"/>
+    <text x="620" y="29" text-anchor="end" font-family="Courier New, monospace" font-size="10" letter-spacing="1.1" fill="#847583">REPORTING OVERVIEW</text>
+    <g transform="translate(24 55)">
+      <rect width="188" height="82" rx="19" fill="#FFFFFF" fill-opacity="0.9"/><text x="18" y="27" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#8A7A89">SPEND</text><text x="18" y="61" font-size="28" font-weight="700" fill="#171720">€24.8k</text><path d="M133 62C149 57 160 38 174 31" fill="none" stroke="#FF93C1" stroke-width="4" stroke-linecap="round"/>
+      <rect x="200" width="188" height="82" rx="19" fill="#FFFFFF" fill-opacity="0.9"/><text x="218" y="27" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#8A7A89">CAMPAIGNS</text><text x="218" y="61" font-size="28" font-weight="700" fill="#171720">18</text><circle cx="350" cy="44" r="17" fill="#B9A4FF"/>
+      <rect x="400" width="204" height="82" rx="19" fill="#FFFFFF" fill-opacity="0.9"/><text x="418" y="27" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#8A7A89">PROVIDERS</text><text x="418" y="61" font-size="28" font-weight="700" fill="#171720">04</text><circle cx="565" cy="44" r="17" fill="#8FD7FF"/>
+      <rect y="96" width="448" height="153" rx="21" fill="#FFFFFF" fill-opacity="0.86"/>
+      <text x="18" y="123" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#8A7A89">PERFORMANCE · 30 DAYS</text>
+      <line x1="22" y1="224" x2="424" y2="224" stroke="#DED9E3"/>
+      <path d="M22 211C64 198 93 206 126 181C162 153 196 178 233 146C270 114 305 149 344 112C372 87 402 101 424 76" fill="none" stroke="url(#chart)" stroke-width="5" stroke-linecap="round"/>
+      <path d="M22 211C64 198 93 206 126 181C162 153 196 178 233 146C270 114 305 149 344 112C372 87 402 101 424 76L424 224H22Z" fill="url(#chart)" opacity="0.08"/>
+      <rect x="462" y="96" width="142" height="153" rx="21" fill="#171720"/><text x="533" y="126" text-anchor="middle" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#CCC5D1">PUBLIC API</text><circle cx="533" cy="171" r="29" fill="#FFFFFF" fill-opacity="0.12"/><path d="M516 171H550M539 160L550 171L539 182" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="533" y="223" text-anchor="middle" font-size="11" fill="#FFFFFF">Share reports</text>
+    </g>
+    <text x="326" y="290" text-anchor="middle" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#7A6D79">REACT · NEXT.JS · POSTGRESQL · PLAYWRIGHT</text>
+  </g>
+</svg>

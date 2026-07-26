@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="560" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+  <title id="title">Uni—Translate — real-time voice translation</title><desc id="desc">Mobile product card with a live audio waveform and voice pipeline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7FAFF"/><stop offset="1" stop-color="#E8F3FF"/></linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#65C8FF"/><stop offset="0.52" stop-color="#7E95FF"/><stop offset="1" stop-color="#B58DFF"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#6683B2" flood-opacity="0.15"/></filter>
+  </defs>
+  <rect width="720" height="560" rx="34" fill="url(#bg)"/>
+  <text x="34" y="47" font-family="Courier New, monospace" font-size="11" letter-spacing="1.6" fill="#74798A">UNI—TRANSLATE · 2026</text>
+  <text x="34" y="101" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.5" fill="#171720">A conversation flowing</text>
+  <text x="34" y="143" font-family="Georgia, Times New Roman, serif" font-size="40" font-style="italic" fill="#171720">across languages.</text>
+  <text x="34" y="181" font-family="Courier New, monospace" font-size="10" font-weight="700" letter-spacing="1.1" fill="#4F566B">PRODUCT DESIGN &amp; FULL-STACK · JURY VALIDATED</text>
+  <g transform="translate(34 211)" filter="url(#shadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="652" height="307" rx="30" fill="#FFFFFF" fill-opacity="0.64" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="26" cy="25" r="4" fill="#FF9BBC"/><circle cx="40" cy="25" r="4" fill="#FFD070"/><circle cx="54" cy="25" r="4" fill="#8BE0C1"/>
+    <text x="620" y="29" text-anchor="end" font-family="Courier New, monospace" font-size="10" letter-spacing="1.1" fill="#74798A">FR → EN · LIVE</text>
+    <rect x="24" y="55" width="604" height="117" rx="20" fill="#F8FBFF"/>
+    <path d="M42 116L55 106L68 126L81 83L94 129L107 96L120 116L133 70L146 130L159 92L172 119L185 78L198 127L211 97L224 116L237 68L250 129L263 90L276 118L289 76L302 127L315 94L328 117L341 72L354 128L367 88L380 116L393 74L406 129L419 93L432 115L445 69L458 127L471 91L484 119L497 79L510 126L523 95L536 116L549 74L562 126L575 96L588 116L610 104" fill="none" stroke="url(#signal)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(43 211)" font-size="13" font-weight="700" fill="#171720">
+      <circle cx="38" cy="28" r="28" fill="#8FCBFF"/><text x="38" y="33" text-anchor="middle">ASR</text>
+      <path d="M72 28H133" stroke="#8AA5D5" stroke-width="2" stroke-dasharray="4 6"/>
+      <circle cx="168" cy="28" r="28" fill="#C8B4FF"/><text x="168" y="33" text-anchor="middle">MT</text>
+      <path d="M202 28H263" stroke="#9A95C7" stroke-width="2" stroke-dasharray="4 6"/>
+      <circle cx="298" cy="28" r="28" fill="#FFB8D3"/><text x="298" y="33" text-anchor="middle">TTS</text>
+      <path d="M332 28H393" stroke="#A18BA8" stroke-width="2" stroke-dasharray="4 6"/>
+      <rect x="428" width="130" height="56" rx="28" fill="#171720"/><text x="493" y="34" text-anchor="middle" fill="#FFFFFF">VOICE</text>
+    </g>
+    <text x="326" y="290" text-anchor="middle" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#7B8090">WEBSOCKET · VOXTRAL · ELEVENLABS · PLAYWRIGHT</text>
+  </g>
+</svg>

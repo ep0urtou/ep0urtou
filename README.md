@@ -1,88 +1,58 @@
 <div align="center">
 
-![Baptiste Avert — Product-minded software engineer](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:6366F1,100:C084FC&text=Baptiste%20Avert&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Product-minded%20software%20engineer&descAlignY=55&descSize=18)
+<a href="https://baptiste-avert.fr">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/liquid-hero-mobile.svg">
+    <img src="./assets/liquid-hero.svg" alt="Baptiste Avert — I turn complexity into clarity" width="1200">
+  </picture>
+</a>
 
-[![Animated introduction: I turn complex systems into clear products. Product thinking, full-stack and applied AI.](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&lines=I+turn+complex+systems+into+clear+products.;Product+thinking+%C3%97+Full-stack+%C3%97+Applied+AI.;From+the+first+problem+to+the+shipped+experience.)](https://baptiste-avert.fr)
+[Portfolio](https://baptiste-avert.fr) · [LinkedIn](https://www.linkedin.com/in/baptiste-avert) · [Email](mailto:baptiste.avert@gmail.com) · [Malt](https://www.malt.fr/profile/baptisteavert)
 
-<p>
-  <a href="https://baptiste-avert.fr"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-baptiste--avert.fr-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/baptiste-avert"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Baptiste_Avert-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-  <a href="mailto:baptiste.avert@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Let's_talk-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
-  <a href="https://www.malt.fr/profile/baptisteavert"><img alt="Malt freelance profile" src="https://img.shields.io/badge/Malt-Freelance-FF5A5F?style=for-the-badge&amp;logo=malt&amp;logoColor=white"></a>
-</p>
+<br>
 
-**Paris, France** · French native · English C1  
-Available to join a team or build as a freelancer
+I build product-facing systems where the **interface, backend, data, and AI tell the same story**.  
+From the real user problem to the tested, shipped experience.
 
 </div>
 
-## From a complex problem to a finished product
+## Selected work
 
-I build product-facing systems where the **interface, backend, data, and AI tell the same story**. I care about the complete path: understand the real need, choose the right architecture, ship it, test it, and polish the experience until the technology gets out of the user's way.
+<a href="https://uni-translate.fr">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-uni-translate-mobile.svg">
+    <img src="./assets/project-uni-translate.svg" alt="Uni—Translate — real-time voice translation product" width="1200">
+  </picture>
+</a>
 
-| Product engineering | Full-stack systems | Applied AI |
-| :--- | :--- | :--- |
-| User journeys, onboarding, dashboards, reporting | Interfaces, APIs, permissions, data, testing, delivery | Voice pipelines, document analysis, RAG, LLM orchestration |
+<a href="https://www.creaboost.com">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-creaboost-mobile.svg">
+    <img src="./assets/project-creaboost.svg" alt="CreaBoost — advertising analytics SaaS" width="1200">
+  </picture>
+</a>
 
-## Products over promises
+<a href="https://dev.postureo.fr">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-postureo-mobile.svg">
+    <img src="./assets/project-postureo.svg" alt="Postureo — public experience and operations platform" width="1200">
+  </picture>
+</a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://uni-translate.fr">Uni—Translate</a></h3>
-      <p><strong>Live speech into usable translated voice.</strong></p>
-      <p>A real-time product connecting speech recognition, semantic audio splits, translation, and voice synthesis while preserving conversation flow.</p>
-      <p>
-        <img alt="Voice product" src="https://img.shields.io/badge/VOICE-PRODUCT-6366F1?style=flat-square">
-        <img alt="EPITECH jury validated" src="https://img.shields.io/badge/EIP-JURY_VALIDATED-22C55E?style=flat-square">
-      </p>
-      <p><code>WebSocket</code> <code>TCP</code> <code>Voxtral</code> <code>ElevenLabs</code> <code>Playwright</code></p>
-      <p><a href="https://uni-translate.fr"><strong>Explore the live product ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://www.creaboost.com">CreaBoost</a></h3>
-      <p><strong>Make scattered advertising data readable.</strong></p>
-      <p>Responsive dashboards, drag-and-drop boards, onboarding, permissions, reporting, analytics, report sharing, and a secured public API.</p>
-      <p>
-        <img alt="SaaS product" src="https://img.shields.io/badge/SAAS-PRODUCT-EC4899?style=flat-square">
-        <img alt="Internship then freelance" src="https://img.shields.io/badge/INTERNSHIP-THEN_FREELANCE-0F172A?style=flat-square">
-      </p>
-      <p><code>React</code> <code>Next.js</code> <code>PostgreSQL</code> <code>PostHog</code> <code>BigQuery</code></p>
-      <p><a href="https://www.creaboost.com"><strong>Discover CreaBoost ↗</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦾 <a href="https://dev.postureo.fr">Postureo</a></h3>
-      <p><strong>Connect the public experience to daily operations.</strong></p>
-      <p>A client product with two faces: a site guiding professionals toward suitable exoskeletons and a private operations panel.</p>
-      <p>
-        <img alt="Client product" src="https://img.shields.io/badge/CLIENT-PRODUCT-06B6D4?style=flat-square">
-        <img alt="Public site and private panel" src="https://img.shields.io/badge/PUBLIC_SITE-PRIVATE_PANEL-0F172A?style=flat-square">
-      </p>
-      <p><code>CRM</code> <code>Requests</code> <code>Conversations</code> <code>Analytics</code> <code>Stock</code></p>
-      <p><a href="https://dev.postureo.fr"><strong>See the client experience ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Diot-Siaci</h3>
-      <p><strong>Turn long documents into traceable, structured answers.</strong></p>
-      <p>A technical POC covering PDF conversion, retrieval experiments, parallel LLM calls, controlled outputs, Excel exports, and annotations placed back into PDFs.</p>
-      <p>
-        <img alt="Applied AI" src="https://img.shields.io/badge/APPLIED-AI-8B5CF6?style=flat-square">
-        <img alt="Internal POC" src="https://img.shields.io/badge/INTERNAL-POC-0F172A?style=flat-square">
-      </p>
-      <p><code>Python</code> <code>Django</code> <code>FastAPI</code> <code>OpenAI</code> <code>BM25</code> <code>Embeddings</code></p>
-      <p><a href="https://baptiste-avert.fr/#experience"><strong>Read the technical case study ↗</strong></a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://baptiste-avert.fr/#experience">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/project-diot-mobile.svg">
+    <img src="./assets/project-diot.svg" alt="Diot-Siaci — document intelligence POC" width="1200">
+  </picture>
+</a>
 
-### More shipped experiences
-
-<p>
-  <a href="https://baptiste-avert.fr/#work"><img alt="Les Abeilles de Victoire — immersive Web 3D" src="https://img.shields.io/badge/Les_Abeilles_de_Victoire-IMMERSIVE_WEB_3D-F59E0B?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white"></a>
-  <a href="https://alter-finances-courtage.fr"><img alt="Alter Finances — guided service" src="https://img.shields.io/badge/Alter_Finances-GUIDED_SERVICE-2563EB?style=for-the-badge&amp;logo=googleforms&amp;logoColor=white"></a>
-  <a href="https://baptiste-avert.fr"><img alt="Portfolio built with Astro and Three.js" src="https://img.shields.io/badge/This_portfolio-ASTRO_%2B_THREE.JS-7C3AED?style=for-the-badge&amp;logo=astro&amp;logoColor=white"></a>
+<p align="center">
+  Also shipped:
+  <a href="https://baptiste-avert.fr/#work">Les Abeilles de Victoire · immersive Web 3D</a>
+  &nbsp;·&nbsp;
+  <a href="https://alter-finances-courtage.fr">Alter Finances · guided service</a>
+  &nbsp;·&nbsp;
+  <a href="https://baptiste-avert.fr">This Astro + Three.js portfolio</a>
 </p>
 
 ## Technologies I use to ship
@@ -101,14 +71,7 @@ I build product-facing systems where the **interface, backend, data, and AI tell
 
 [![Java, C, Bash, Docker, Google Cloud, Cloudflare, Git, GitHub Actions, GitLab and Linux](https://skillicons.dev/icons?i=java,c,bash,docker,gcp,cloudflare,git,githubactions,gitlab,linux&theme=light&perline=10)](https://baptiste-avert.fr)
 
-<p>
-  <img alt="OpenAI APIs" src="https://img.shields.io/badge/OpenAI_APIs-0F172A?style=flat-square&amp;logo=openai&amp;logoColor=white">
-  <img alt="Playwright E2E" src="https://img.shields.io/badge/Playwright-E2E-0F172A?style=flat-square&amp;logo=playwright&amp;logoColor=white">
-  <img alt="PostHog product analytics" src="https://img.shields.io/badge/PostHog-Product_analytics-0F172A?style=flat-square&amp;logo=posthog&amp;logoColor=white">
-  <img alt="BigQuery data" src="https://img.shields.io/badge/BigQuery-Data-0F172A?style=flat-square&amp;logo=googlebigquery&amp;logoColor=white">
-  <img alt="WebSocket realtime systems" src="https://img.shields.io/badge/WebSocket-Realtime-0F172A?style=flat-square&amp;logo=socketdotio&amp;logoColor=white">
-  <img alt="Continuous integration and delivery" src="https://img.shields.io/badge/CI%2FCD-Delivery-0F172A?style=flat-square&amp;logo=githubactions&amp;logoColor=white">
-</p>
+`OpenAI APIs` · `Playwright` · `PostHog` · `BigQuery` · `WebSocket` · `CI/CD`
 
 <sub>Also experienced with SQL, Shell, C/ProC, Cobol, Spring Batch, PyMuPDF, pandas, TF-IDF, BM25, and embeddings.</sub>
 
@@ -136,12 +99,11 @@ real problem  →  product intent  →  interface + system + AI  →  tests  →
 
 <div align="center">
 
-## Let's build something worth shipping
-
-The best way to see how I think is through **[my portfolio](https://baptiste-avert.fr)**.  
-The fastest way to start a conversation is **[baptiste.avert@gmail.com](mailto:baptiste.avert@gmail.com)**.
-
-[![Open the portfolio](https://img.shields.io/badge/OPEN_THE_PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://baptiste-avert.fr)
-[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baptiste.avert@gmail.com)
+<a href="mailto:baptiste.avert@gmail.com">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/liquid-contact-mobile.svg">
+    <img src="./assets/liquid-contact.svg" alt="Let's build something worth shipping — email Baptiste Avert" width="1200">
+  </picture>
+</a>
 
 </div>
