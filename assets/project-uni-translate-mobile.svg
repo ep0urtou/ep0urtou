@@ -25,6 +25,6 @@
       <path d="M332 28H393" stroke="#A18BA8" stroke-width="2" stroke-dasharray="4 6"/>
       <rect x="428" width="130" height="56" rx="28" fill="#171720"/><text x="493" y="34" text-anchor="middle" fill="#FFFFFF">VOICE</text>
     </g>
-    <text x="326" y="290" text-anchor="middle" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#7B8090">WEBSOCKET · VOXTRAL · ELEVENLABS · PLAYWRIGHT</text>
+    <text x="326" y="290" text-anchor="middle" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#7B8090">WEBSOCKET · VOXTRAL · PLAYWRIGHT</text>
   </g>
 </svg>

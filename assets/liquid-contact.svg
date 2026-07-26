@@ -6,8 +6,10 @@
     <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FF9BCB"/><stop offset="0.5" stop-color="#AA9DFF"/><stop offset="1" stop-color="#79C9FF"/></linearGradient>
     <radialGradient id="shine" cx="30%" cy="18%" r="68%"><stop stop-color="#FFFFFF"/><stop offset="0.18" stop-color="#FFFFFF" stop-opacity="0.35"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
     <filter id="shadow" x="-20%" y="-40%" width="140%" height="190%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#70758D" flood-opacity="0.14"/></filter>
+    <clipPath id="frame"><rect width="1200" height="250" rx="40"/></clipPath>
   </defs>
-  <rect width="1200" height="250" rx="34" fill="url(#bg)"/>
+  <g clip-path="url(#frame)">
+  <rect width="1200" height="250" rx="40" fill="url(#bg)"/>
   <circle cx="1065" cy="126" r="132" fill="url(#orb)" opacity="0.92"/>
   <circle cx="1065" cy="126" r="132" fill="url(#shine)"/>
   <circle cx="905" cy="48" r="38" fill="#FFB2D0"/><circle cx="905" cy="48" r="38" fill="url(#shine)"/>
@@ -25,5 +27,5 @@
     <circle cx="416" cy="25" r="18" fill="#F4F6FC"/>
     <path d="M408 25H423M417 19L423 25L417 31" fill="none" stroke="#171720" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <text x="525" y="208" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#818391">TEAM · FREELANCE · PARIS</text>
+  </g>
 </svg>
