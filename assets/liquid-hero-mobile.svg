@@ -15,7 +15,7 @@
   <g filter="url(#glass)"><rect x="30" y="24" width="660" height="72" rx="36" fill="#FFFFFF" fill-opacity="0.6" stroke="#FFFFFF" stroke-width="2"/></g>
   <circle cx="70" cy="60" r="20" fill="#F8FAFF" stroke="#FFFFFF" stroke-width="2"/>
   <text x="70" y="66" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#171720">BA</text>
-  <text x="106" y="55" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">FULL-STACK++ ENGINEER</text>
+  <text x="106" y="55" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">FULL-STACK ENGINEER</text>
   <text x="106" y="72" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">PRODUCT · AI · DELIVERY</text>
 
   <g font-family="Arial, Helvetica, sans-serif" fill="#171720">
@@ -23,8 +23,8 @@
     <text x="40" y="244" font-size="76" font-weight="520" letter-spacing="-4.5">Understand.</text>
     <text x="40" y="326" font-family="Georgia, Times New Roman, serif" font-size="84" font-style="italic" letter-spacing="-4">Build.</text>
     <text x="40" y="408" font-size="82" font-weight="520" letter-spacing="-5">Ship.</text>
-    <text x="42" y="462" font-size="19" fill="#666773">Full-stack++ across product, interface, backend,</text>
-    <text x="42" y="492" font-size="19" fill="#666773">data, AI, and delivery — all the way to production.</text>
+    <text x="42" y="462" font-size="19" fill="#666773">I work across product, interface, backend, data,</text>
+    <text x="42" y="492" font-size="19" fill="#666773">AI, and delivery — all the way to production.</text>
   </g>
 
   <g filter="url(#shadow)">

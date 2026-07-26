@@ -36,7 +36,7 @@
       <rect x="64" y="292" width="93" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.74" stroke="#FFFFFF"/>
       <text x="110.5" y="311" text-anchor="middle">PRODUCT</text>
       <rect x="166" y="292" width="112" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.74" stroke="#FFFFFF"/>
-      <text x="222" y="311" text-anchor="middle">FULL-STACK++</text>
+      <text x="222" y="311" text-anchor="middle">FULL-STACK</text>
       <rect x="287" y="292" width="104" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.74" stroke="#FFFFFF"/>
       <text x="339" y="311" text-anchor="middle">DELIVERY</text>
     </g>

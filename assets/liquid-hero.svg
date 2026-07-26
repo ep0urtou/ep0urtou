@@ -42,7 +42,7 @@
   <g font-family="Arial, Helvetica, sans-serif" fill="#171720">
     <circle cx="86" cy="61" r="18" fill="#F8FAFF" stroke="#FFFFFF" stroke-width="1.5"/>
     <text x="86" y="66" text-anchor="middle" font-size="12" font-weight="700">BA</text>
-    <text x="118" y="54" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">FULL-STACK++ ENGINEER</text>
+    <text x="118" y="54" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">FULL-STACK ENGINEER</text>
     <text x="118" y="69" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">PRODUCT · AI · DELIVERY</text>
     <text x="480" y="65" font-family="Courier New, monospace" font-size="10" letter-spacing="1.25" fill="#686A78">INTERFACE · BACKEND · DATA · AI · DELIVERY</text>
   </g>
@@ -59,8 +59,8 @@
     <text x="68" y="231" font-size="76" font-weight="520" letter-spacing="-4.5">Understand.</text>
     <text x="68" y="305" font-family="Georgia, Times New Roman, serif" font-size="80" font-style="italic" letter-spacing="-3.8">Build.</text>
     <text x="68" y="380" font-size="78" font-weight="520" letter-spacing="-4.7">Ship.</text>
-    <text x="70" y="430" font-size="17" fill="#666773">Full-stack++: product thinking, interface, backend, data,</text>
-    <text x="70" y="456" font-size="17" fill="#666773">AI, and delivery connected into software people can use.</text>
+    <text x="70" y="430" font-size="17" fill="#666773">I work across product, interface, backend, data, AI, and</text>
+    <text x="70" y="456" font-size="17" fill="#666773">delivery to ship software people can actually use.</text>
   </g>
 
   </g>
