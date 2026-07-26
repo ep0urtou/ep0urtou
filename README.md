@@ -48,7 +48,7 @@ From the real user problem to the tested, shipped experience.
 
 <p align="center">
   Also shipped:
-  <a href="https://baptiste-avert.fr/#work">Les Abeilles de Victoire · immersive Web 3D</a>
+  <a href="https://lesabeillesdevictoire.com/">Les Abeilles de Victoire · immersive Web 3D</a>
   &nbsp;·&nbsp;
   <a href="https://alter-finances-courtage.fr">Alter Finances · guided service</a>
   &nbsp;·&nbsp;
