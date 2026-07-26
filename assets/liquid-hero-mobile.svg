@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
-  <title id="title">Baptiste Avert — I turn complexity into clarity</title>
-  <desc id="desc">Mobile composition with editorial typography and liquid spheres inspired by Baptiste Avert's portfolio.</desc>
+  <title id="title">Baptiste Avert — Understand. Build. Ship.</title>
+  <desc id="desc">Mobile composition presenting a product-minded approach: understand the need, build the whole system, and ship usable software.</desc>
   <defs>
     <linearGradient id="page" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAFBFE"/><stop offset="1" stop-color="#F3F6FD"/></linearGradient>
     <linearGradient id="mainOrb" x1="0.12" y1="0.05" x2="0.9" y2="0.92"><stop stop-color="#FFB8D3"/><stop offset="0.48" stop-color="#F18BC7"/><stop offset="0.8" stop-color="#A79AF8"/><stop offset="1" stop-color="#7EA7FF"/></linearGradient>
@@ -8,33 +8,34 @@
     <radialGradient id="shine" cx="34%" cy="23%" r="72%"><stop stop-color="#FFFFFF" stop-opacity="0.98"/><stop offset="0.13" stop-color="#FFFFFF" stop-opacity="0.42"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
     <filter id="shadow" x="-35%" y="-35%" width="170%" height="185%"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#8079B8" flood-opacity="0.2"/></filter>
     <filter id="glass" x="-20%" y="-50%" width="140%" height="210%"><feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#7D8095" flood-opacity="0.12"/></filter>
+    <clipPath id="frame"><rect width="720" height="900" rx="40"/></clipPath>
   </defs>
-  <rect width="720" height="900" fill="url(#page)"/>
+  <g clip-path="url(#frame)">
+  <rect width="720" height="900" rx="40" fill="url(#page)"/>
   <g filter="url(#glass)"><rect x="30" y="24" width="660" height="72" rx="36" fill="#FFFFFF" fill-opacity="0.6" stroke="#FFFFFF" stroke-width="2"/></g>
   <circle cx="70" cy="60" r="20" fill="#F8FAFF" stroke="#FFFFFF" stroke-width="2"/>
   <text x="70" y="66" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#171720">BA</text>
-  <text x="106" y="55" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">SOFTWARE ENGINEER</text>
-  <text x="106" y="72" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">ORIENTED PRODUCT</text>
+  <text x="106" y="55" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">FULL-STACK++ ENGINEER</text>
+  <text x="106" y="72" font-family="Courier New, monospace" font-size="10" letter-spacing="1.3" fill="#555766">PRODUCT · AI · DELIVERY</text>
   <circle cx="626" cy="60" r="5" fill="#63C795"/>
   <text x="642" y="64" font-family="Courier New, monospace" font-size="9" letter-spacing="1" fill="#555766">OPEN</text>
 
   <g font-family="Arial, Helvetica, sans-serif" fill="#171720">
     <text x="40" y="155" font-family="Courier New, monospace" font-size="12" letter-spacing="2.1" fill="#898A98">BAPTISTE AVERT · PARIS</text>
-    <text x="40" y="244" font-size="82" font-weight="520" letter-spacing="-5">I turn</text>
-    <text x="40" y="326" font-family="Georgia, Times New Roman, serif" font-size="84" font-style="italic" letter-spacing="-4">complexity</text>
-    <text x="40" y="408" font-size="82" font-weight="520" letter-spacing="-5">into clarity.</text>
-    <text x="42" y="462" font-size="20" fill="#666773">Interface, system, and artificial intelligence</text>
-    <text x="42" y="493" font-size="20" fill="#666773">tell the same product story.</text>
+    <text x="40" y="244" font-size="76" font-weight="520" letter-spacing="-4.5">Understand.</text>
+    <text x="40" y="326" font-family="Georgia, Times New Roman, serif" font-size="84" font-style="italic" letter-spacing="-4">Build.</text>
+    <text x="40" y="408" font-size="82" font-weight="520" letter-spacing="-5">Ship.</text>
+    <text x="42" y="462" font-size="19" fill="#666773">Full-stack++ across product, interface, backend,</text>
+    <text x="42" y="492" font-size="19" fill="#666773">data, AI, and delivery — all the way to production.</text>
   </g>
 
   <g filter="url(#shadow)">
     <circle cx="425" cy="697" r="183" fill="url(#mainOrb)"/><circle cx="425" cy="697" r="183" fill="url(#shine)"/>
     <circle cx="617" cy="790" r="115" fill="url(#blueOrb)"/><circle cx="617" cy="790" r="115" fill="url(#shine)"/>
-    <circle cx="163" cy="649" r="58" fill="#FFB4D2"/><circle cx="163" cy="649" r="58" fill="url(#shine)"/>
-    <circle cx="603" cy="577" r="38" fill="url(#blueOrb)"/><circle cx="603" cy="577" r="38" fill="url(#shine)"/>
   </g>
   <g transform="translate(41 842)" font-family="Courier New, monospace" font-size="10" letter-spacing="1.15" fill="#858794">
     <circle cx="6" cy="-3" r="6" fill="#63C795" opacity="0.25"/><circle cx="6" cy="-3" r="3" fill="#55BB87"/>
     <text x="20" y="0">TEAM · FREELANCE · FR/EN</text>
+  </g>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-  <title id="title">Baptiste Avert — I turn complexity into clarity</title>
-  <desc id="desc">Editorial portrait of Baptiste Avert with oversized typography, restrained glass, and soft liquid spheres inspired by his portfolio.</desc>
+  <title id="title">Baptiste Avert — Understand. Build. Ship.</title>
+  <desc id="desc">Editorial portrait of Baptiste Avert presenting a product-minded approach: understand the need, build the whole system, and ship usable software.</desc>
   <defs>
     <linearGradient id="page" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FAFBFE"/>
@@ -28,12 +28,11 @@
     <filter id="glassShadow" x="-15%" y="-40%" width="130%" height="190%">
       <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#7D8095" flood-opacity="0.12"/>
     </filter>
-    <filter id="softBlur" x="-70%" y="-70%" width="240%" height="240%">
-      <feGaussianBlur stdDeviation="3.8"/>
-    </filter>
+    <clipPath id="frame"><rect width="1200" height="520" rx="40"/></clipPath>
   </defs>
 
-  <rect width="1200" height="520" fill="url(#page)"/>
+  <g clip-path="url(#frame)">
+  <rect width="1200" height="520" rx="40" fill="url(#page)"/>
 
   <g filter="url(#glassShadow)">
     <rect x="54" y="28" width="1092" height="66" rx="33" fill="#FFFFFF" fill-opacity="0.58" stroke="#FFFFFF" stroke-width="1.5"/>
@@ -43,9 +42,9 @@
   <g font-family="Arial, Helvetica, sans-serif" fill="#171720">
     <circle cx="86" cy="61" r="18" fill="#F8FAFF" stroke="#FFFFFF" stroke-width="1.5"/>
     <text x="86" y="66" text-anchor="middle" font-size="12" font-weight="700">BA</text>
-    <text x="118" y="54" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">SOFTWARE ENGINEER</text>
-    <text x="118" y="69" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">ORIENTED PRODUCT</text>
-    <text x="530" y="65" font-family="Courier New, monospace" font-size="10" letter-spacing="1.4" fill="#686A78">PRODUCT · FULL-STACK · APPLIED AI</text>
+    <text x="118" y="54" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">FULL-STACK++ ENGINEER</text>
+    <text x="118" y="69" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">PRODUCT · AI · DELIVERY</text>
+    <text x="480" y="65" font-family="Courier New, monospace" font-size="10" letter-spacing="1.25" fill="#686A78">INTERFACE · BACKEND · DATA · AI · DELIVERY</text>
     <circle cx="1065" cy="61" r="5" fill="#63C795"/>
     <text x="1080" y="65" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#555766">AVAILABLE</text>
   </g>
@@ -55,20 +54,15 @@
     <circle cx="966" cy="278" r="174" fill="url(#shine)"/>
     <circle cx="1092" cy="430" r="100" fill="url(#blueOrb)"/>
     <circle cx="1092" cy="430" r="100" fill="url(#shine)"/>
-    <circle cx="804" cy="154" r="40" fill="#FFB4D2"/>
-    <circle cx="804" cy="154" r="40" fill="url(#shine)"/>
-    <circle cx="1114" cy="129" r="28" fill="url(#blueOrb)"/>
-    <circle cx="1114" cy="129" r="28" fill="url(#shine)"/>
   </g>
-  <circle cx="785" cy="422" r="22" fill="url(#blueOrb)" opacity="0.88" filter="url(#softBlur)"/>
 
   <g font-family="Arial, Helvetica, sans-serif" fill="#171720">
     <text x="68" y="147" font-family="Courier New, monospace" font-size="11" letter-spacing="2.1" fill="#898A98">BAPTISTE AVERT · PARIS</text>
-    <text x="68" y="231" font-size="78" font-weight="520" letter-spacing="-4.7">I turn</text>
-    <text x="68" y="305" font-family="Georgia, Times New Roman, serif" font-size="80" font-style="italic" letter-spacing="-3.8">complexity</text>
-    <text x="68" y="380" font-size="78" font-weight="520" letter-spacing="-4.7">into clarity.</text>
-    <text x="70" y="430" font-size="17" fill="#666773">I build digital products where the interface, the system,</text>
-    <text x="70" y="456" font-size="17" fill="#666773">and artificial intelligence tell the same story.</text>
+    <text x="68" y="231" font-size="76" font-weight="520" letter-spacing="-4.5">Understand.</text>
+    <text x="68" y="305" font-family="Georgia, Times New Roman, serif" font-size="80" font-style="italic" letter-spacing="-3.8">Build.</text>
+    <text x="68" y="380" font-size="78" font-weight="520" letter-spacing="-4.7">Ship.</text>
+    <text x="70" y="430" font-size="17" fill="#666773">Full-stack++: product thinking, interface, backend, data,</text>
+    <text x="70" y="456" font-size="17" fill="#666773">AI, and delivery connected into software people can use.</text>
   </g>
 
   <g transform="translate(69 477)" font-family="Courier New, monospace" font-size="9" letter-spacing="1.15" fill="#858794">
@@ -77,4 +71,5 @@
     <text x="18" y="0">OPEN TO TEAM · FREELANCE</text>
   </g>
   <text x="1128" y="477" text-anchor="end" font-family="Courier New, monospace" font-size="9" letter-spacing="1.2" fill="#858794">FR · EN C1</text>
+  </g>
 </svg>

@@ -3,7 +3,7 @@
 <a href="https://baptiste-avert.fr">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/liquid-hero-mobile.svg">
-    <img src="./assets/liquid-hero.svg" alt="Baptiste Avert — I turn complexity into clarity" width="1200">
+    <img src="./assets/liquid-hero.svg" alt="Baptiste Avert — Understand. Build. Ship." width="1200">
   </picture>
 </a>
 
@@ -89,13 +89,10 @@ From the real user problem to the tested, shipped experience.
 
 ## How I build
 
-```text
-real problem  →  product intent  →  interface + system + AI  →  tests  →  shipped experience
-```
-
-1. Start with the user's need and the real constraints.
-2. Design the journey and the system together.
-3. Build, test, ship, observe, and polish.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/how-i-build-mobile.svg">
+  <img src="./assets/how-i-build.svg" alt="How I build — Understand the need, build the whole product, and ship a clean result" width="1200">
+</picture>
 
 <div align="center">
 
