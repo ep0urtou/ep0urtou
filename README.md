@@ -2,105 +2,84 @@
 
 <a href="https://baptiste-avert.fr">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/liquid-hero-mobile.svg">
-    <img src="./assets/liquid-hero.svg" alt="Baptiste Avert — Understand. Build. Ship." width="1200">
+    <source media="(max-width: 600px)" srcset="./assets/prism-hero-mobile.png">
+    <img src="./assets/prism-hero.png" alt="Baptiste Avert — Software &amp; ML Engineer. Speech AI, data products and backend." width="1120">
   </picture>
 </a>
 
-[Portfolio](https://baptiste-avert.fr) · [LinkedIn](https://www.linkedin.com/in/baptiste-avert) · [Email](mailto:baptiste.avert@gmail.com) · [Malt](https://www.malt.fr/profile/baptisteavert)
+[Portfolio](https://baptiste-avert.fr/en) · [LinkedIn](https://www.linkedin.com/in/baptiste-avert) · [Contact](https://baptiste-avert.fr/#contact) · [Malt](https://www.malt.fr/profile/baptisteavert)
 
-<br>
-
-I build product-facing systems where the **interface, backend, data, and AI tell the same story**.  
-From the real user problem to the tested, shipped experience.
+I build software for **live speech, document intelligence and data products**, from backend services to the user interface.
 
 </div>
 
 ## Selected work
 
-<a href="https://uni-translate.fr">
+<a href="https://baptiste-avert.fr/projets/unitranslate?lang=en">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/project-uni-translate-mobile.svg">
-    <img src="./assets/project-uni-translate.svg" alt="Uni—Translate — real-time voice translation product" width="1200">
+    <source media="(max-width: 600px)" srcset="./assets/case-unitranslate-mobile.png">
+    <img src="./assets/case-unitranslate.png" alt="Uni-Translate: Live audio into translated speech." width="1120">
   </picture>
 </a>
 
-<a href="https://www.creaboost.com">
+I co-founded Uni-Translate and work on streaming speech recognition, translation and synthesis, including the decision of when a segment is ready to be voiced.
+
+<a href="https://baptiste-avert.fr/projets/creaboost?lang=en">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/project-creaboost-mobile.svg">
-    <img src="./assets/project-creaboost.svg" alt="CreaBoost — advertising analytics SaaS" width="1200">
+    <source media="(max-width: 600px)" srcset="./assets/case-creaboost-mobile.png">
+    <img src="./assets/case-creaboost.png" alt="CreaBoost: Configurable reports across ad platforms. Product preview with sample data." width="1120">
   </picture>
 </a>
 
-<a href="https://dev.postureo.fr">
+I contributed to configurable dashboards, report sharing and permissions, and Playwright testing in GitLab CI.
+
+<a href="https://baptiste-avert.fr/test41/projets/diot">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/project-postureo-mobile.svg">
-    <img src="./assets/project-postureo.svg" alt="Postureo — public experience and operations platform" width="1200">
+    <source media="(max-width: 600px)" srcset="./assets/case-diot-mobile.png">
+    <img src="./assets/case-diot.png" alt="Diot–Siaci: Extracted answers linked to source clauses." width="1120">
   </picture>
 </a>
 
-<a href="https://baptiste-avert.fr/#experience">
+I worked on a contract-analysis proof of concept that links extracted answers back to passages in the original PDF. [See the case study and pipeline diagram](https://baptiste-avert.fr/test41/projets/diot).
+
+<a href="https://baptiste-avert.fr/projets/postureo?lang=en">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/project-diot-mobile.svg">
-    <img src="./assets/project-diot.svg" alt="Diot-Siaci — document intelligence POC" width="1200">
+    <source media="(max-width: 600px)" srcset="./assets/case-postureo-mobile.png">
+    <img src="./assets/case-postureo.png" alt="Postureo: Product guidance connected to enquiry tracking." width="1120">
   </picture>
 </a>
 
-<p align="center">
-  Also shipped:
-  <a href="https://lesabeillesdevictoire.com/">Les Abeilles de Victoire · immersive Web 3D</a>
-  &nbsp;·&nbsp;
-  <a href="https://alter-finances-courtage.fr">Alter Finances · guided service</a>
-  &nbsp;·&nbsp;
-  <a href="https://baptiste-avert.fr">This Astro + Three.js portfolio</a>
-</p>
+I worked on connecting the public exoskeleton guidance journey to a workspace for tracking customer requests.
 
-## Technologies I use to ship
+Also shipped: [Les Abeilles de Victoire · immersive Web 3D](https://lesabeillesdevictoire.com/) · [Alter Finances · guided service](https://alter-finances-courtage.fr) · [This Astro + Three.js portfolio](https://baptiste-avert.fr)
 
-<div align="center">
+## Technologies
 
-**Product interfaces**
+| Area | Tools |
+| :--- | :--- |
+| Interfaces | TypeScript, React, Next.js, Astro, Three.js, WebGL |
+| Backend & real time | Python, FastAPI, WebSocket, Java, C++, SQL |
+| AI & data | PyTorch, ONNX Runtime, Triton, vLLM |
+| Testing & operations | Playwright, GitLab CI, Sentry, PostHog, Cloudflare |
 
-[![TypeScript, React, Next.js, Astro and Three.js](https://skillicons.dev/icons?i=ts,react,nextjs,astro,threejs&theme=light&perline=5)](https://baptiste-avert.fr)
+## Experience and education
 
-**Backend & data**
+- **CreaBoost · 2025–2026** · Product development, first as an intern and then freelance.
+- **Diot–Siaci · 2024–2025** · R&D internship in generative AI and document analysis.
+- **Sopra Steria · 2023** · Internship on France’s national health data infrastructure.
+- **Epitech Paris · 2022–2027** · Five-year Grande École program. French state-accredited diploma and RNCP level 7 qualification in progress. Warm Up Days EIP winner with Uni-Translate.
+- **Beijing Institute of Technology** · Computer science exchange.
 
-[![Python, Django, FastAPI and PostgreSQL](https://skillicons.dev/icons?i=py,django,fastapi,postgres&theme=light&perline=4)](https://baptiste-avert.fr)
-
-**Systems & delivery**
-
-[![Java, C, Bash, Docker, Google Cloud, Cloudflare, Git, GitHub Actions, GitLab and Linux](https://skillicons.dev/icons?i=java,c,bash,docker,gcp,cloudflare,git,githubactions,gitlab,linux&theme=light&perline=10)](https://baptiste-avert.fr)
-
-`OpenAI APIs` · `Playwright` · `PostHog` · `BigQuery` · `WebSocket` · `CI/CD`
-
-<sub>Also experienced with SQL, Shell, C/ProC, Cobol, Spring Batch, PyMuPDF, pandas, TF-IDF, BM25, and embeddings.</sub>
-
-</div>
-
-## The experience behind the products
-
-| When | Context | What I worked on |
-| :--- | :--- | :--- |
-| **2025—2026** | **CreaBoost** · Internship → freelance | SaaS dashboards, reporting engine, product analytics, E2E coverage |
-| **2024—2025** | **Diot-Siaci** · Internship | Generative AI application and document-analysis POC |
-| **2023** | **Sopra Steria** · Internship | Healthcare data infrastructure, collector migrations, extraction tooling |
-| **2022—2027** | **EPITECH Paris** | Five-year Computer Science track · degree and RNCP level 7 in progress |
-| **Exchange** | **Beijing Institute of Technology** | Computer Science, Cyber Security, and Artificial Intelligence |
-
-## How I build
+[Explore all projects](https://baptiste-avert.fr/projets?lang=en)
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/how-i-build-mobile.svg">
-  <img src="./assets/how-i-build.svg" alt="How I build — Understand the need, build the whole product, and ship a clean result" width="1200">
+  <source media="(max-width: 600px)" srcset="./assets/prism-method-mobile.png">
+  <img src="./assets/prism-method.png" alt="How I build: define the problem, build the system and test the whole workflow." width="1120">
 </picture>
 
-<div align="center">
-
-<a href="mailto:baptiste.avert@gmail.com">
+<a href="https://baptiste-avert.fr/#contact">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/liquid-contact-mobile.svg">
-    <img src="./assets/liquid-contact.svg" alt="Let's build something worth shipping — email Baptiste Avert" width="1200">
+    <source media="(max-width: 600px)" srcset="./assets/prism-contact-mobile.png">
+    <img src="./assets/prism-contact.png" alt="Have a project in mind? Contact Baptiste Avert." width="1120">
   </picture>
 </a>
-
-</div>
