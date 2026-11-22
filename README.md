@@ -72,11 +72,6 @@ Also shipped: [Les Abeilles de Victoire · immersive Web 3D](https://lesabeilles
 
 [Explore all projects](https://baptiste-avert.fr/projets?lang=en)
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/prism-method-mobile.png">
-  <img src="./assets/prism-method.png" alt="How I build: define the problem, build the system and test the whole workflow." width="1120">
-</picture>
-
 <a href="https://baptiste-avert.fr/#contact">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/prism-contact-mobile.png">
